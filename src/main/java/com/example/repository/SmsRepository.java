@@ -1,0 +1,1 @@
+package com.example.repository;import com.example.entity.SmsEntity;import org.springframework.data.jpa.repository.JpaRepository;public interface SmsRepository extends JpaRepository<SmsEntity, String> {}
